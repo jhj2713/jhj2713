@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Hi!%20I'm%20Hyojeong&fontAlign=50&fontSize=90)
 
-<h3 align="center">✏Tech Stack✏</h3>
+<h3 align="center">✏ Tech Stack ✏</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 </div>  
 <br>
-<h3 align="center">🎁Me🎁</h3>
+<h3 align="center">🎁 Me 🎁</h3>
 <div align="center">
   <a href="mailto:2713jhj@ewhain.net" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>  
-
+<br>
