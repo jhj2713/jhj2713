@@ -21,7 +21,9 @@
 <br>
 <h3 align="center">🎁 Me 🎁</h3>
 <div align="center">
+  <!--
   <a href="https://velog.io/@krkorklo58" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  -->
   <a href="mailto:2713jhj@ewhain.net" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>  
 <br>
