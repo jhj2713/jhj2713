@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Hi!%20I'm%20Hyojeong&fontAlign=50&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=300&section=header&text=Ju%20Hyojeong&fontAlign=50&fontSize=90)
 
 <h3 align="center">✏ Tech Stack ✏</h3>
 <div align="center">
