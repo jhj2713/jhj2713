@@ -1,7 +1,7 @@
 <h1 align="center">Profile</h3>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhj2713&show_icons=true&theme=calm" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhj2713&show_icons=true&theme=calm" />-->
   <a href="https://solved.ac/jhj2713">
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj2713" />
   </a>
