@@ -1,51 +1,16 @@
-<h1 align="center">Profile</h3>
+### ⚒ Projects
+- 진단 로직을 기반으로 한 헬스케어 서비스, [Healthier](https://healthier.cf/) - FE (2022.05. ~ )
+- 스크럼 회고를 도와주는 화이트보드 기반의 실시간 협업 플랫폼, [BooCrum](https://github.com/boostcampwm-2022/web22-BooCrum) - FE (2022.11. ~ 2022.12.)
+- AI 배리어프리 자막 서비스, [NoonSori](https://github.com/So-Woo-Ju/NoonSori) - FE (2021.09. ~ 2022.06.)
 
-<div align="center">
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhj2713&show_icons=true&theme=calm" />-->
-  <a href="https://solved.ac/jhj2713">
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj2713" />
-  </a>
-</div>
+### 🎁 Experience
+- 카카오엔터프라이즈 인턴 (2023.02. ~ )
+- 네이버 커넥트재단 부스트캠프 웹・모바일 7기 멤버십 (2022.08. ~ 2022.12.)
+- 네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지 (2022.07. ~ 2022.08.)
+- 신촌 연합 IT 창업 동아리 CEOS - 17기 공동회장 (2023.03. ~ )
+- 신촌 연합 IT 창업 동아리 CEOS - 16기 FE 파트장 (2022.09. ~ 2023.02.)
+- 신촌 연합 IT 창업 동아리 CEOS - 15기 FE (2022.03. ~ 2022.08.)
 
-<br/>
-
-<h1 align="center">Tech Stack</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-  <br><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <br>
-  <!--
-  <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  -->
-</div>  
-<br>
-<h1 align="center">Coworking Tool</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
-</div>  
-<br/>
-<h1 align="center">Me</h3>
-<div align="center">
-  <a href="https://velog.io/@krkorklo58" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Vimeo&logoColor=white"/>
-  </a>
-  <a href="mailto:2713jhj@ewhain.net" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-</div>  
-<br>
 
 <div align=center>
   
