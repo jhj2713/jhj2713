@@ -4,6 +4,7 @@
 - AI 배리어프리 자막 서비스, [NoonSori](https://github.com/So-Woo-Ju/NoonSori) - FE (2021.09. ~ 2022.06.)
 
 ### 🎁 Experience
+- Toss UX Engineer Assistant (2023.06. ~ )
 - KakaoEnterprise 인턴 (2023.02. ~ 2023.05.)
 - 네이버 커넥트재단 부스트캠프 웹・모바일 7기 멤버십 (2022.08. ~ 2022.12.)
 - 네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지 (2022.07. ~ 2022.08.)
