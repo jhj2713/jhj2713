@@ -1,5 +1,5 @@
 ### ⚒ Projects
-- 진단 로직을 기반으로 한 헬스케어 서비스, [Healthier](https://healthier.cf/) - FE (2022.05. ~ 2023.11.)
+- 진단 로직을 기반으로 한 헬스케어 서비스, [Healthier](https://github.com/healthier-devs/healthier-frontend) - FE (2022.05. ~ 2023.11.)
 - 스크럼 회고를 도와주는 화이트보드 기반의 실시간 협업 플랫폼, [BooCrum](https://github.com/boostcampwm-2022/web22-BooCrum) - FE (2022.11. ~ 2022.12.)
 - AI 배리어프리 자막 서비스, [NoonSori](https://github.com/So-Woo-Ju/NoonSori) - FE (2021.09. ~ 2022.06.)
 
