@@ -8,7 +8,7 @@
 - KakaoEnterprise Engineer Intern (2023.02. ~ 2023.05.)
 
 ### 🎁 Experience
-- HMG SOFTEER BOOTCAMP 2024 (2024.07. ~ )
+- HMG SOFTEER BOOTCAMP 2024 (2024.07. ~ 2024.08.)
 - 네이버 커넥트재단 부스트캠프 웹・모바일 7기 (2022.07. ~ 2022.12.)
 - 신촌 연합 IT 창업 동아리 CEOS - 17기 공동회장 (2023.03. ~ 2023.08.)
 - 신촌 연합 IT 창업 동아리 CEOS - 16기 FE 파트장 (2022.09. ~ 2023.02.)
